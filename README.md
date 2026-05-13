@@ -15,7 +15,3 @@ Hi, I'm Kandy 👋<br>Computer Programming student at Humber Polytechnic (Dean's
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
----
-[![](https://komarev.com/ghpvc/?username=kandykochar&icon=0&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
